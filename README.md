@@ -18,7 +18,7 @@
 ## Our Games 🎮
 ![](https://i.imgur.com/fSn3int.jpg)
 
-## Visitiors🎮
-(https://komarev.com/ghpvc/?username=arifduman)
+![](https://komarev.com/ghpvc/?username=arifduman)
+
 # Editor.md
 ###End
