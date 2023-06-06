@@ -8,12 +8,6 @@
 #### I'm working on some cool things!
 
 
-## Skills 🔧
-
-![](https://i.imgur.com/Bq2pVDD.png)
-
-## Our Games 🎮
-![](https://i.imgur.com/fSn3int.jpg)
 
 ## Visitors 🌐
 ![](https://komarev.com/ghpvc/?username=arifduman)
